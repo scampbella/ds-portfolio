@@ -1,0 +1,36 @@
+Posting 1: Data Scientist – Fraud
+Mid-level Seniority (3–5 years)
+
+Required skills/qualifications:
+- 2–3 years of product analytics experience
+- SQL and Python skills
+- Analyzing complex datasets
+- Experimentation
+- Backtesting
+- Building dashboards
+- Strong communication skills
+
+Preferred skills/qualifications:
+- Experience with fraud or risk analysis
+- Experience with machine learning
+
+Posting 2: Business Data Scientist
+Mid-level Seniority (3+ years)
+
+Required skills/qualifications:
+- Master's degree in statistics, engineering, or the sciences
+- 3 years of relevant experience or a PhD
+- Python, R, or SQL experience
+- Statistical analysis and using data to solve business problems
+- Collaboration and communication skills
+
+Preferred skills/qualifications:
+- Relevant PhD or 4 years of experience using analytics for business problems
+
+Skills/qualifications in both postings:
+- 3+ years of relevant experience
+- Python and SQL
+- Communication
+
+Both of these jobs have shared skills that form the base of what you need for most data science related positions.
+I think it's interesting that R is not included in there, though it might have just been replaced by Python at this point.
